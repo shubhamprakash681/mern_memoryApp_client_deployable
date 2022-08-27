@@ -1,0 +1,4 @@
+useState
+useEffect
+useDispatch -> of actions
+useSelector -> of reducers
